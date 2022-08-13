@@ -35,7 +35,30 @@ $~~~~~~~~~~$ 2.3 TARGET == 0/1 Kernel Density Estimation
 
 8. FE - installments_payments.csv
 
+## Notebook 3
+9. Dataset Brushup
 
+$~~~~~~~~~~$ 9.1 Merging New Features
 
+$~~~~~~~~~~$ 9.2 Removing Collinear Variables
 
+$~~~~~~~~~~$ 9.3 Columns with Missing Values
 
+$~~~~~~~~~~$ 9.4 Removing Unimportant Features
+
+## Notebook 4
+10. Manual LGBM Fit
+
+11. Cross Validation
+
+12. Hyperparameter Tuning
+
+$~~~~~~~~~~$ 12.1 Evaluation Function
+
+$~~~~~~~~~~$ 12.2 Grid
+
+$~~~~~~~~~~$ 12.3 Algorithm
+
+$~~~~~~~~~~$$~~~~~~~~~~$ 12.3.1 Grid Search
+
+$~~~~~~~~~~$$~~~~~~~~~~$ 12.3.2 Random Search
