@@ -1,9 +1,12 @@
 Credit goes to Will Koehrsen for his educational material,  Home Credit for their data and the Kaggle team for making it all possible.
 
 Final Score:
-LGBM - 78.39
-Grid Search LGBM - NaN due to hardware limitation
-Random Search LGBM - NaN due to hardware limitation
+
+-LGBM: 78.39
+
+-Grid Search LGBM: NaN due to hardware limitation
+
+-Random Search LGBM: NaN due to hardware limitation
 
 Each chapter below has a description in the corresponding notebook. Check it out for more details.
 
